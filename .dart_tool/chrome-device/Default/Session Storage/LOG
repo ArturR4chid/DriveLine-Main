@@ -1,0 +1,19 @@
+2025/11/26-20:04:26.182 44d4 Reusing MANIFEST C:\Users\artur\AppData\Local\Temp\flutter_tools.639787a\flutter_tools_chrome_device.3855687f\Default\Session Storage/MANIFEST-000001
+2025/11/26-20:04:26.188 44d4 Recovering log #12
+2025/11/26-20:04:26.191 44d4 Reusing old log C:\Users\artur\AppData\Local\Temp\flutter_tools.639787a\flutter_tools_chrome_device.3855687f\Default\Session Storage/000012.log 
+2025/11/26-20:04:26.196 44d4 Delete type=0 #3
+2025/11/26-20:14:23.249 44d4 Level-0 table #16: started
+2025/11/26-20:14:23.257 44d4 Level-0 table #16: 481718 bytes OK
+2025/11/26-20:14:23.259 44d4 Delete type=0 #12
+2025/11/26-20:14:23.259 44d4 Compacting 4@0 + 1@1 files
+2025/11/26-20:14:23.277 44d4 Generated table #17@0: 243 keys, 472852 bytes
+2025/11/26-20:14:23.277 44d4 Compacted 4@0 + 1@1 files => 472852 bytes
+2025/11/26-20:14:23.278 44d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/26-20:14:23.278 44d4 Delete type=2 #7
+2025/11/26-20:14:23.278 44d4 Delete type=2 #9
+2025/11/26-20:14:23.278 44d4 Delete type=2 #11
+2025/11/26-20:14:23.279 44d4 Delete type=2 #13
+2025/11/26-20:14:23.279 44d4 Delete type=2 #16
+2025/11/26-20:14:42.230 44d4 Level-0 table #19: started
+2025/11/26-20:14:42.239 44d4 Level-0 table #19: 435517 bytes OK
+2025/11/26-20:14:42.241 44d4 Delete type=0 #15
